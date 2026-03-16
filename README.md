@@ -53,6 +53,29 @@ Microsoft PowerApps & Power Automate / Flow
 
 ## Experience
 
+### WorksafeBC
+**SDLC Automation Engineer
+Richmond, BC | March 2026 - Present
+3000+ Employees
+
+```
+Technology Stack: 
+Visual Studio Code, GIT, GitHub, Azure Pipelines, Ansible, Terraform, ServiceNow, PowerShell, Visio, Azure DevOps, Azure - Functions, App Services, Key Vault, SQLServer, App Registrations, Storage Accounts, Entra ID.
+```
+
+**Work Profile/Portfolio**
+- Lead the automation strategy for our common engineering ecosystem, defining the north star for self-service and “paved road” experiences across repository, pipeline, and infrastructure provisioning.
+- Design and build a self-service kiosk that integrates ServiceNow request flows with orchestration powered by Ansible and Terraform to enable one-click provisioning of application and platform blueprints.
+- Engineer Azure-native solutions that are secure-by-design, observable, and scalable.
+- Develop in .NET and automate with PowerShell, building reusable libraries, modules, and pipeline templates that can be adopted widely.
+- Extend and automate Azure DevOps with the Azure DevOps REST API, implementing repository-as-code and pipeline-as-code patterns, quality gates, compliance checks, and governance reporting.
+Champion quality engineering, embedding automated testing (unit, component, contract, and security scans) throughout continuous integration and continuous delivery.
+- Artificial Intelligence empowerment: Experience and passion for Artificial Intelligence (AI) and for integrating people, process, products, and AI Agents to enhance developer experience and delivery outcomes. You design responsible, human-in-the-loop automation that uses AI to remove toil, improve signal-to-noise, and accelerate safe decision-making.
+- Partner across the organization (platform, security, architecture, operations, and product teams) to co-design guardrails, align on “paved roads” versus “un-paved roads,” and land changes with empathy and accountability.
+- Measure what matters, establishing clear telemetry, service-level indicators, and adoption metrics to drive continuous improvement, risk reduction, and cost avoidance.
+
+---
+
 ### Svante  
 **Team Lead, DevOps & Application Development – Manufacturing, Facilities & Digital Platforms**  
 Burnaby, BC | Feb 2025 – Feb 2026  
