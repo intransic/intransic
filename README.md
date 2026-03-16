@@ -51,7 +51,7 @@ Microsoft PowerApps & Power Automate / Flow
 
 ### WorksafeBC
 **SDLC Automation Engineer**  
-Richmond, BC | March 2026 - Present
+Richmond, BC | March 2026 - Present  
 3000+ Employees
 
 ```
