@@ -1,8 +1,4 @@
 # Vis Naidu
-
-**Contact Information:**  
-- Email: visnaidu@gmail.com  
-- Phone: +1 (604) 356-8403  
 - LinkedIn: linkedin.com/in/visnaidu
 
 ---
