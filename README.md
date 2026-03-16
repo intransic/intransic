@@ -59,7 +59,7 @@ Technology Stack:
 Visual Studio Code, GIT, GitHub, Azure Pipelines, Ansible, Terraform, ServiceNow, PowerShell, Visio, Azure DevOps, Azure - Functions, App Services, Key Vault, SQLServer, App Registrations, Storage Accounts, Entra ID.
 ```
 
-**Work Profile/Portfolio**
+**Work Profile/Portfolio:**
 - Lead the automation strategy for our common engineering ecosystem, defining the north star for self-service and “paved road” experiences across repository, pipeline, and infrastructure provisioning.
 - Design and build a self-service kiosk that integrates ServiceNow request flows with orchestration powered by Ansible and Terraform to enable one-click provisioning of application and platform blueprints.
 - Engineer Azure-native solutions that are secure-by-design, observable, and scalable.
