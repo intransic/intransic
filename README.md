@@ -11,39 +11,35 @@ Seasoned technology specialist with expertise in analyzing, designing, developin
 
 ## Technologies
 
-```
-ASP .NET w/ MVC, .NET Core, Web API, C# and VB .NET
-JavaScript, jQuery, AngularJS, Angular, React, TypeScript, NextJS, daisyUI, TailwindCSS, DrizzleORM
-Azure App Services, App Registrations, App Insights, Web Jobs, Storage, Synapse, Key Vault, Entra ID
-Material UI, Kendo UI, Bootstrap
-Entity Framework and LINQ, DapperOrm 
-OutSystems applications, services, modules & extensions 
-Amazon CloudWatch, FullStory, Azure Metrics, SolarWinds
-SharePoint Online – Search, Admin, Framework Pages
-Microsoft SQLServer and Oracle SQL and PL/SQL, PostgreSQL
-Business Analysis, Requirements Gathering, Technical Designing & Documenting
-Training, Code Reviews
-Coaching and Mentoring
-```
+- ASP .NET w/ MVC, .NET Core, Web API, C# and VB .NET
+- JavaScript, jQuery, AngularJS, Angular, React, TypeScript, NextJS, daisyUI, TailwindCSS, DrizzleORM
+- Azure App Services, App Registrations, App Insights, Web Jobs, Storage, Synapse, Key Vault, Entra ID
+- Material UI, Kendo UI, Bootstrap
+- Entity Framework and LINQ, DapperOrm 
+- OutSystems applications, services, modules & extensions 
+- Amazon CloudWatch, FullStory, Azure Metrics, SolarWinds
+- SharePoint Online – Search, Admin, Framework Pages
+- Microsoft SQLServer and Oracle SQL and PL/SQL, PostgreSQL
+- Business Analysis, Requirements Gathering, Technical Designing & Documenting
+- Training, Code Reviews
+- Coaching and Mentoring
 
 ---
 
 ## Tools & Platforms
 
-```
-Visual Studio Enterprise, and Visual Studio Code
-SQLServer up to 2022, and Azure SQL, Oracle 8 & 10
-OutSystems Service Studio, Integration Studio, Service Center & LifeTime
-JIRA – Configuration and Management
-BitBucket, SourceTree
-Jenkins, Azure DevOps
-Evolus Pencil, and Balsamiq Mockups
-Office 365, Visio 2022, SmartSheets, Meisterplan
-SharePoint Online and On-Prem – Configuration & Development
-SAP NetWeaver Portal up to 7 – Administration & Development
-Dynamics 365 – Configuration & Development
-Microsoft PowerApps & Power Automate / Flow
-```
+- Visual Studio Enterprise, and Visual Studio Code
+- SQLServer, and Azure SQL, Oracle
+- OutSystems Service Studio, Integration Studio, Service Center & LifeTime
+- JIRA – Configuration and Management
+- BitBucket, SourceTree
+- Jenkins, Azure DevOps
+- Evolus Pencil, and Balsamiq Mockups
+- Office 365, Visio, SmartSheets, Meisterplan
+- SharePoint Online and On-Prem – Configuration & Development
+- SAP NetWeaver Portal up to 7 – Administration & Development
+- Dynamics 365 – Configuration & Development
+- Microsoft PowerApps & Power Automate / Flow
 
 ---
 
@@ -54,10 +50,8 @@ Microsoft PowerApps & Power Automate / Flow
 Richmond, BC | March 2026 - Present  
 3000+ Employees
 
-```
-Technology Stack: 
-Visual Studio Code, GIT, GitHub, Azure Pipelines, Ansible, Terraform, ServiceNow, PowerShell, Visio, Azure DevOps, Azure - Functions, App Services, Key Vault, SQLServer, App Registrations, Storage Accounts, Entra ID.
-```
+`Technology Stack` 
+- Visual Studio Code, GIT, GitHub, Azure Pipelines, Ansible, Terraform, ServiceNow, PowerShell, Visio, Azure DevOps, Azure - Functions, App Services, Key Vault, SQLServer, App Registrations, Storage Accounts, Entra ID.
 
 **Work Profile/Portfolio:**
 - Lead the automation strategy for our common engineering ecosystem, defining the north star for self-service and “paved road” experiences across repository, pipeline, and infrastructure provisioning.
@@ -77,14 +71,12 @@ Champion quality engineering, embedding automated testing (unit, component, cont
 Burnaby, BC | Feb 2025 – Feb 2026  
 250+ Employees
 
-```
-Technology Stack:
-React, NextJS, Node, ExpressJS, TypeScript/JavaScript, TailwindCSS, daisyUI, DrizzleORM, 
+`Technology Stack` 
+- React, NextJS, Node, ExpressJS, TypeScript/JavaScript, TailwindCSS, daisyUI, DrizzleORM, 
 PostgreSQL, Docker, PowerPlatform (PowerApps & PowerAutomate), SharePoint Online, Azure DevOps, 
 Visual Studio Code, Windsurf, Cursor, Antigravity, Anaconda - Python, Jupyter Notebook, PowerShell, 
 Azure – App Services, App Registrations, Storage Accounts, Synapse, Grafana, PowerBI, Key Vault, 
 Entra ID and OpenAI, GIT, Visio, MIRO, JIRA, BusinessCentral API, Mega HOPEX – Enterprise Architecture
-```
 
 **Work Portfolio:**  
 - Leading and managing the development of various applications, pipelines, analytics scripts, integrations, extensions, and services.  
@@ -101,12 +93,10 @@ Entra ID and OpenAI, GIT, Visio, MIRO, JIRA, BusinessCentral API, Mega HOPEX –
 Vancouver, BC | August 2024 – January 2025  
 3+ Employees
 
-```
-Technology Stack:
-ASP .NET Core, React JS, Next JS, Tailwind CSS, Azure DevOps, Azure B2C - Configuration & Customization, 
+`Technology Stack` 
+- ASP .NET Core, React JS, Next JS, Tailwind CSS, Azure DevOps, Azure B2C - Configuration & Customization, 
 Social Logins for Facebook, Google and Apple using OAuth, Azure SQL, Postman, SourceTree, VS Code, 
 Visual Studio, Node, Amadeus API, Azure OpenAI, Redis Cache
-```
 
 **Work Portfolio:**  
 - Partnering closely with the back-end development team to deliver seamless user experiences  
@@ -124,13 +114,11 @@ Visual Studio, Node, Amadeus API, Azure OpenAI, Redis Cache
 Vancouver, BC | Oct 2021 – Jun 2024  
 18000+ Employees
 
-```
-Technology Stack:
-Azure - App Services / SQL / Web Jobs / Insights / Registrations / Metrics, ASP .NET Core, C#, ReactJS, 
+`Technology Stack` 
+- Azure - App Services / SQL / Web Jobs / Insights / Registrations / Metrics, ASP .NET Core, C#, ReactJS, 
 Angular, PowerShell, NodeJS, Azure DevOps, GIT, Visio, Visual Studio, VS Code, CI/CD, SonarQube, SonarLint, 
 SSIS, ServiceNow, SolarWinds, Amazon Cloudwatch, FullStory, OutSystems - Service Studio / Service Center / 
 Integration Studio / LifeTime / AI Mentor Studio, SharePoint Online - Search / Admin / Designer / Framework Pages
-```
 
 **Work Portfolio:**  
 - Spearheaded the migration of OutSystems applications to modern ReactJS frameworks with ASP.NET Core, ensuring seamless integration and hosting within Azure, fortified by Azure AD Authentication.  
@@ -150,13 +138,11 @@ Integration Studio / LifeTime / AI Mentor Studio, SharePoint Online - Search / A
 Vancouver, BC | Dec 2020 – Sep 2021  
 18000+ Employees
 
-```
-Technology Stack:
-Azure - App Services / SQL / Web Jobs / Insights / Registrations, ASP .NET, C#, ReactJS, Angular, 
+`Technology Stack` 
+- Azure - App Services / SQL / Web Jobs / Insights / Registrations, ASP .NET, C#, ReactJS, Angular, 
 PowerShell, NodeJS, OutSystems, SharePoint Online - Search / Admin / Designer / Framework Pages, 
 Project, Planner, Azure DevOps, GIT, AirTable, Visio, Visual Studio, VS Code, NotePad++, CI/CD, 
 SSIS, Cinchy, ServiceNow, MS Graph
-```
 
 **Work Portfolio:**  
 - Enabled robust encryption and decryption of sensitive data within PowerShell scripts to ensure secure data synchronization processes.  
@@ -171,13 +157,11 @@ SSIS, Cinchy, ServiceNow, MS Graph
 Coquitlam, BC | Feb 2019 – Nov 2020  
 1500+ Employees
 
-```
-Technology Stack:
-ASP .NET, .NET Core, C#, VB .NET, Entity Framework and LINQ, VS Code, VS 2017, ASP, MVC, Azure DevOps, 
+`Technology Stack` 
+- ASP .NET, .NET Core, C#, VB .NET, Entity Framework and LINQ, VS Code, VS 2017, ASP, MVC, Azure DevOps, 
 VSTS, AngularJS, Angular, jQuery, CoreUI, PowerShell, DataScope WMS, SYSPRO 6 & 8, SQLServer, SSRS, SSIS, 
 Crystal Reports, SwiftKanban, ZenDesk, SourceTree, Dynamics 365, PowerApps, Power Automate/Flow, Tibco Scribe, 
 SharePoint, Couchbase NoSQL, Docker, Kubernetes, SwaggerHub
-```
 
 **Work Portfolio:**  
 - Provided critical support for key enterprise systems, including SYSPRO ERP, a variety of Web and Windows applications built on .NET, and integrated platforms like DataScope WMS and Dynamics 365.  
@@ -191,11 +175,9 @@ SharePoint, Couchbase NoSQL, Docker, Kubernetes, SwaggerHub
 Burnaby, BC | Nov 2018 – Jan 2019  
 3000+ Employees
 
-```
-Technology Stack:
-ASP .NET and .NET Core, C#, SourceTree, BitBucket, Jenkins, AngularJS & Angular 5, TypeScript, JIRA, 
+`Technology Stack` 
+- ASP .NET and .NET Core, C#, SourceTree, BitBucket, Jenkins, AngularJS & Angular 5, TypeScript, JIRA, 
 HipChat, Confluence, SQLExplorer, DapperOrm, Oracle PL/SQL
-```
 
 **Work Portfolio:**  
 - Reported to the Director of IT Services and played a pivotal role in the CSG (Consumer Solutions Group) Development Team.  
@@ -208,12 +190,10 @@ HipChat, Confluence, SQLExplorer, DapperOrm, Oracle PL/SQL
 Burnaby, BC | May 2017 – Nov 2018  
 50+ Employees
 
-```
-Technology Stack:
-ASP .NET, C#, MVC, Entity Framework and LINQ, JavaScript, jQuery, Bootstrap, Kendo UI, VBScript, 
+`Technology Stack` 
+- ASP .NET, C#, MVC, Entity Framework and LINQ, JavaScript, jQuery, Bootstrap, Kendo UI, VBScript, 
 Windows Workflow Foundation, JIRA, JSON, WCF, WPF, User Controls, SQLServer SQL and PL/SQL, 
 Crystal Reports, Espresso, TFS, Visio, Pencil - for wireframing
-```
 
 **Work Portfolio:**  
 - Designed and implemented advanced workflow and power tailoring solutions for Beachcomber/EMC, automating B2B and invoicing processes, order entry, and intercompany transactions.  
@@ -243,12 +223,10 @@ Burnaby, BC | Nov 2016 – Mar 2017
 Burnaby, BC | Jun 2015 – Nov 2016  
 50+ Employees
 
-```
-Technology Stack:
-ASP .NET, C#, MVC, Entity Framework and LINQ, JavaScript, jQuery, Bootstrap, VBScript, 
+`Technology Stack` 
+- ASP .NET, C#, MVC, Entity Framework and LINQ, JavaScript, jQuery, Bootstrap, VBScript, 
 Windows Workflow Foundation, JSON, WCF, User Controls, SQLServer SQL and PL/SQL, 
 Crystal Reports, TFS, SharePoint, Yammer, Visio, Pencil - for wireframing
-```
 
 **Work Portfolio - Large Projects (1 year or greater):**  
 - Advanced Web Application - Solution Design and Development for Plant Products
@@ -266,44 +244,40 @@ Crystal Reports, TFS, SharePoint, Yammer, Visio, Pencil - for wireframing
 
 ## Certifications
 
-```
-Certification for Dale Carnegie – Effective Communications and Human Relations
-Certification for MCTS: SharePoint 2010 - Application Development
-Certification for MCPD: SharePoint Developer 2010
-Ideaca - Leadership Essentials, Methodi
-Microsoft Experience Center – Facilitator Training
-Certification for SAP NetWeaver Portal 2004 Development Consultant
-SYSPRO – Onboarding for Partners, Administration Essentials, Technical Aware
-```
+- Certification for Dale Carnegie – Effective Communications and Human Relations
+- Certification for MCTS: SharePoint 2010 - Application Development
+- Certification for MCPD: SharePoint Developer 2010
+- Ideaca - Leadership Essentials, Methodi
+- Microsoft Experience Center – Facilitator Training
+- Certification for SAP NetWeaver Portal 2004 Development Consultant
+- SYSPRO – Onboarding for Partners, Administration Essentials, Technical Aware
 
 ---
 
 ## Training & Courses
 
-```
-Complete A.I. & Machine Learning, Data Science Bootcamp, Udemy (Jan 2026)
-AZ-104 Microsoft Azure Administrator course with SIMULATIONS, Udemy (Jun 2024)
-Prompt Engineering for ChatGPT, Vanderbilt University at Coursera (Jun 2024)
-Hands-On Introduction: React, LinkedIn Learning (Jan 2024)
-Generative AI for Everyone, DeepLearning.AI at Coursera (Dec 2023)
-SharePoint Online Admin Essential Training, LinkedIn Learning (Jan 2021)
-API Development in .NET with GraphQL, LinkedIn Learning (Jun 2020)
-Migrating from REST to GraphQL, LinkedIn Learning (Jun 2020)
-Azure Microservices with .NET Core for Developers, LinkedIn Learning (May 2020)
-MB-200: Microsoft Power Platform + Dynamics 365 Core (Aug 2020)
-55242: Microsoft Dynamics 365 Customization and Configuration (Aug 2020)
-MSDN online training in SharePoint 2010 - Configuration, Administration, Application Development, 
-and Skills Training (Collections 10276, 10278, 10347, and 10352)
-MSDN 10232A: Designing and Developing Microsoft SharePoint Server 2010 Applications
-MSDN 6600 series - .NET 3.5 (ASP .NET, Web Forms, MVC, tracing, and health monitoring)
-```
+|Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Training/Course|
+|--|--|
+|2026-Jan|Complete A.I. & Machine Learning, Data Science Bootcamp, Udemy (Jan 2026)|
+|2024-Jun|AZ-104 Microsoft Azure Administrator course with SIMULATIONS, Udemy (Jun 2024)|
+|2024-Jun|Prompt Engineering for ChatGPT, Vanderbilt University at Coursera (Jun 2024)|
+|2024-Jan|Hands-On Introduction: React, LinkedIn Learning (Jan 2024)|
+|2023-Dec|Generative AI for Everyone, DeepLearning.AI at Coursera (Dec 2023)|
+|2021-Jan|SharePoint Online Admin Essential Training, LinkedIn Learning (Jan 2021)|
+|2020-Jun|API Development in .NET with GraphQL, LinkedIn Learning (Jun 2020)|
+|2020-Jun|Migrating from REST to GraphQL, LinkedIn Learning (Jun 2020)|
+|2020-May|Azure Microservices with .NET Core for Developers, LinkedIn Learning (May 2020)|
+|2020-Aug|MB-200: Microsoft Power Platform + Dynamics 365 Core (Aug 2020)|
+|2020-Aug|55242: Microsoft Dynamics 365 Customization and Configuration (Aug 2020)|
+|2011-All|MSDN online training in SharePoint 2010 - Configuration, Administration, Application Development, and Skills Training (Collections 10276, 10278, 10347, and 10352)|
+|2011-All|MSDN 10232A: Designing and Developing Microsoft SharePoint Server 2010 Applications|
+|2011-All|MSDN 6600 series - .NET 3.5 (ASP .NET, Web Forms, MVC, tracing, and health monitoring)|
 
 ---
 
 ## Education
 
-```
-B. Sc. In Computing & Information Systems (Post Diploma) - Athabasca University, Canada
-Technical Diploma in Object Oriented Software Technology (OOST) - University of Calgary, Canada
-Technical Diploma in Mechanical Engineering Technology (MET) - Southern Alberta Institute of Technology, Calgary, Canada
-```
+- B. Sc. In Computing & Information Systems (Post Diploma) - Athabasca University, Canada
+- Technical Diploma in Object Oriented Software Technology (OOST) - University of Calgary, Canada
+- Technical Diploma in Mechanical Engineering Technology (MET) - Southern Alberta Institute of Technology, Calgary, Canada
+
