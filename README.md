@@ -241,6 +241,8 @@ Crystal Reports, TFS, SharePoint, Yammer, Visio, Pencil - for wireframing
 - Master Data - Support for Ironwood, Langley Concrete & Excell Battery
 
 ---
+Extended job history available through LinkedIn profile: https://www.linkedin.com/in/visnaidu/
+---
 
 ## Certifications
 
