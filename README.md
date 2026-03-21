@@ -1,5 +1,5 @@
 # Vis Naidu
-- LinkedIn: linkedin.com/in/visnaidu
+- LinkedIn: https://linkedin.com/in/visnaidu
 
 ---
 
