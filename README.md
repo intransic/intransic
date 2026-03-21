@@ -53,7 +53,7 @@ Richmond, BC | March 2026 - Present
 `Technology Stack` 
 - Visual Studio Code, GIT, GitHub, Azure Pipelines, Ansible, Terraform, ServiceNow, PowerShell, Visio, Azure DevOps, Azure - Functions, App Services, Key Vault, SQLServer, App Registrations, Storage Accounts, Entra ID.
 
-**Work Profile/Portfolio:**
+`Work Profile/Portfolio`
 - Lead the automation strategy for our common engineering ecosystem, defining the north star for self-service and “paved road” experiences across repository, pipeline, and infrastructure provisioning.
 - Design and build a self-service kiosk that integrates ServiceNow request flows with orchestration powered by Ansible and Terraform to enable one-click provisioning of application and platform blueprints.
 - Engineer Azure-native solutions that are secure-by-design, observable, and scalable.
@@ -78,7 +78,7 @@ Visual Studio Code, Windsurf, Cursor, Antigravity, Anaconda - Python, Jupyter No
 Azure – App Services, App Registrations, Storage Accounts, Synapse, Grafana, PowerBI, Key Vault, 
 Entra ID and OpenAI, GIT, Visio, MIRO, JIRA, BusinessCentral API, Mega HOPEX – Enterprise Architecture
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Leading and managing the development of various applications, pipelines, analytics scripts, integrations, extensions, and services.  
 - Building, coaching, and managing an engaged, high-performing team of digital technology specialists.  
 - Partnering with developers and technologists from other departments to drive consistent development practices and support enterprise-aligned development outcomes.  
@@ -98,7 +98,7 @@ Vancouver, BC | August 2024 – January 2025
 Social Logins for Facebook, Google and Apple using OAuth, Azure SQL, Postman, SourceTree, VS Code, 
 Visual Studio, Node, Amadeus API, Azure OpenAI, Redis Cache
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Partnering closely with the back-end development team to deliver seamless user experiences  
 - Contributing to code reviews to ensure high-quality, maintainable code  
 - Enhancing application performance through optimization techniques  
@@ -120,7 +120,7 @@ Angular, PowerShell, NodeJS, Azure DevOps, GIT, Visio, Visual Studio, VS Code, C
 SSIS, ServiceNow, SolarWinds, Amazon Cloudwatch, FullStory, OutSystems - Service Studio / Service Center / 
 Integration Studio / LifeTime / AI Mentor Studio, SharePoint Online - Search / Admin / Designer / Framework Pages
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Spearheaded the migration of OutSystems applications to modern ReactJS frameworks with ASP.NET Core, ensuring seamless integration and hosting within Azure, fortified by Azure AD Authentication.  
 - Collaborated with Infrastructure and Security teams to define and implement cutting-edge standards and designs for cloud-hosted applications, enhancing overall security and efficiency.  
 - Directed the comprehensive overhaul of key OutSystems environments, overseeing platform configurations, migrations, license management, and troubleshooting to ensure optimal performance.  
@@ -144,7 +144,7 @@ PowerShell, NodeJS, OutSystems, SharePoint Online - Search / Admin / Designer / 
 Project, Planner, Azure DevOps, GIT, AirTable, Visio, Visual Studio, VS Code, NotePad++, CI/CD, 
 SSIS, Cinchy, ServiceNow, MS Graph
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Enabled robust encryption and decryption of sensitive data within PowerShell scripts to ensure secure data synchronization processes.  
 - Designed and developed a secure OutSystems module for REST APIs, enabling efficient querying of personnel and office data, protected by JSON Web Tokens issued by Office 365.  
 - Engineered advanced SharePoint framework page solutions in SharePoint Online for streamlined searching of personnel and office assets, while automating CI/CD pipelines using Azure DevOps for enhanced deployment efficiency.  
@@ -163,7 +163,7 @@ VSTS, AngularJS, Angular, jQuery, CoreUI, PowerShell, DataScope WMS, SYSPRO 6 & 
 Crystal Reports, SwiftKanban, ZenDesk, SourceTree, Dynamics 365, PowerApps, Power Automate/Flow, Tibco Scribe, 
 SharePoint, Couchbase NoSQL, Docker, Kubernetes, SwaggerHub
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Provided critical support for key enterprise systems, including SYSPRO ERP, a variety of Web and Windows applications built on .NET, and integrated platforms like DataScope WMS and Dynamics 365.  
 - Established and refined change management processes and procedures, chaired Approval/Review meetings, mentored team members, and advised on best practices to ensure seamless implementation and minimal disruption.  
 - Managed the development, integration, change management, and maintenance of Dynamics 365 for Customer Services and Sales implementations, ensuring robust system performance and alignment with business goals.
@@ -179,7 +179,7 @@ Burnaby, BC | Nov 2018 – Jan 2019
 - ASP .NET and .NET Core, C#, SourceTree, BitBucket, Jenkins, AngularJS & Angular 5, TypeScript, JIRA, 
 HipChat, Confluence, SQLExplorer, DapperOrm, Oracle PL/SQL
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Reported to the Director of IT Services and played a pivotal role in the CSG (Consumer Solutions Group) Development Team.  
 - Developed cutting-edge solutions for business streams in Merchandising, Inventory, and Floor Planning at Best Buy Canada Headquarters, driving efficiency and innovation within an Agile development environment.
 
@@ -195,7 +195,7 @@ Burnaby, BC | May 2017 – Nov 2018
 Windows Workflow Foundation, JIRA, JSON, WCF, WPF, User Controls, SQLServer SQL and PL/SQL, 
 Crystal Reports, Espresso, TFS, Visio, Pencil - for wireframing
 
-**Work Portfolio:**  
+`Work Portfolio`  
 - Designed and implemented advanced workflow and power tailoring solutions for Beachcomber/EMC, automating B2B and invoicing processes, order entry, and intercompany transactions.  
 - Created a seamless workflow solution for Redwood Plastics, enhancing operational efficiency and data management.  
 - Improved and upgraded the customer-facing web portal and workflow for Plant Products, boosting user experience and system functionality.  
@@ -228,10 +228,10 @@ Burnaby, BC | Jun 2015 – Nov 2016
 Windows Workflow Foundation, JSON, WCF, User Controls, SQLServer SQL and PL/SQL, 
 Crystal Reports, TFS, SharePoint, Yammer, Visio, Pencil - for wireframing
 
-**Work Portfolio - Large Projects (1 year or greater):**  
+`Work Portfolio - Large Projects (1 year or greater)`  
 - Advanced Web Application - Solution Design and Development for Plant Products
 
-**Work Portfolio - Small Projects (Less than 1 year):**  
+`Work Portfolio - Small Projects (Less than 1 year)`  
 - Delivery & Assembly Portal - Solution Design for Source Office Furnishings  
 - .NET Custom Solution using NPOI - Development for Giftland OfficeMax  
 - Workflow Support - Development for Chapman's Ice Cream  
