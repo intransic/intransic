@@ -58,7 +58,7 @@ Richmond, BC | March 2026 - Present
 - Design and build a self-service kiosk that integrates ServiceNow request flows with orchestration powered by Ansible and Terraform to enable one-click provisioning of application and platform blueprints.
 - Engineer Azure-native solutions that are secure-by-design, observable, and scalable.
 - Develop in .NET and automate with PowerShell, building reusable libraries, modules, and pipeline templates that can be adopted widely.
-- Extend and automate Azure DevOps with the Azure DevOps REST API, implementing repository-as-code and pipeline-as-code patterns, quality gates, compliance checks, and governance reporting.
+- Extend and automate Azure DevOps with the Azure DevOps REST API, implementing repository-as-code and pipeline-as-code patterns, gates, checks, and reporting.
 Champion quality engineering, embedding automated testing (unit, component, contract, and security scans) throughout continuous integration and continuous delivery.
 - Artificial Intelligence empowerment: Experience and passion for Artificial Intelligence (AI) and for integrating people, process, products, and AI Agents to enhance developer experience and delivery outcomes. You design responsible, human-in-the-loop automation that uses AI to remove toil, improve signal-to-noise, and accelerate safe decision-making.
 - Partner across the organization (platform, security, architecture, operations, and product teams) to co-design guardrails, align on “paved roads” versus “un-paved roads,” and land changes with empathy and accountability.
@@ -262,17 +262,18 @@ Extended job history available through LinkedIn profile: https://www.linkedin.co
 
 |Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Training/Course|
 |--|--|
-|2026-Jan|Complete A.I. & Machine Learning, Data Science Bootcamp, Udemy (Jan 2026)|
-|2024-Jun|AZ-104 Microsoft Azure Administrator course with SIMULATIONS, Udemy (Jun 2024)|
-|2024-Jun|Prompt Engineering for ChatGPT, Vanderbilt University at Coursera (Jun 2024)|
-|2024-Jan|Hands-On Introduction: React, LinkedIn Learning (Jan 2024)|
-|2023-Dec|Generative AI for Everyone, DeepLearning.AI at Coursera (Dec 2023)|
-|2021-Jan|SharePoint Online Admin Essential Training, LinkedIn Learning (Jan 2021)|
-|2020-Jun|API Development in .NET with GraphQL, LinkedIn Learning (Jun 2020)|
-|2020-Jun|Migrating from REST to GraphQL, LinkedIn Learning (Jun 2020)|
-|2020-May|Azure Microservices with .NET Core for Developers, LinkedIn Learning (May 2020)|
-|2020-Aug|MB-200: Microsoft Power Platform + Dynamics 365 Core (Aug 2020)|
-|2020-Aug|55242: Microsoft Dynamics 365 Customization and Configuration (Aug 2020)|
+|2026-Mar|Deployment and DevOps - Microsoft, Coursera|
+|2026-Jan|Complete A.I. & Machine Learning, Data Science Bootcamp, Udemy|
+|2024-Jun|AZ-104 Microsoft Azure Administrator course with SIMULATIONS, Udemy|
+|2024-Jun|Prompt Engineering for ChatGPT, Vanderbilt University at Coursera|
+|2024-Jan|Hands-On Introduction: React, LinkedIn Learning|
+|2023-Dec|Generative AI for Everyone, DeepLearning.AI at Coursera|
+|2021-Jan|SharePoint Online Admin Essential Training, LinkedIn Learning|
+|2020-Jun|API Development in .NET with GraphQL, LinkedIn Learning|
+|2020-Jun|Migrating from REST to GraphQL, LinkedIn Learning|
+|2020-May|Azure Microservices with .NET Core for Developers, LinkedIn Learning|
+|2020-Aug|MB-200: Microsoft Power Platform + Dynamics 365 Core|
+|2020-Aug|55242: Microsoft Dynamics 365 Customization and Configuration|
 |2011-All|MSDN online training in SharePoint 2010 - Configuration, Administration, Application Development, and Skills Training (Collections 10276, 10278, 10347, and 10352)|
 |2011-All|MSDN 10232A: Designing and Developing Microsoft SharePoint Server 2010 Applications|
 |2011-All|MSDN 6600 series - .NET 3.5 (ASP .NET, Web Forms, MVC, tracing, and health monitoring)|
